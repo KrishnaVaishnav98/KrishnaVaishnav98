@@ -10,7 +10,7 @@ I'm a Civil Engineer from Uka Tarsadia University in Bardoli. However, my passio
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-vaishnav-707ab1144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-vaishnav-707ab1144/" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://krishnavaishnav98.github.io/" target="blank"><img align="center" src="https://krishnavaishnav98.github.io/" alt="https://krishnavaishnav98.github.io/" height="30" width="40" /></a>
+<a href="https://krishnavaishnav98.github.io/" target="blank"> <p>Portfolio:"https://krishnavaishnav98.github.io/"</p> </a>
 </p>
 
 <h3 align="left">Technical Skills:</h3>
