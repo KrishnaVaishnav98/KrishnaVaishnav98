@@ -84,14 +84,6 @@ But choosing a color for a button? That takes forever. 😄
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaVaishnav98&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVaishnav98&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### ✨ **Thanks for stopping by!**
 If you're here to check out my work or explore my journey — I appreciate you.  
 Feel free to connect, collaborate, or just drop a “hi”!  
