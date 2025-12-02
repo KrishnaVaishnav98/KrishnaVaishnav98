@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-I'm a Civil Engineer who found his true passion in the world of web development.  
+I'm a Civil Engineer who found her true passion in the world of web development.  
 What started as a curiosity slowly turned into a full-time career — and today, I’m a Frontend Developer with 2 years of experience building clean, fast, and user-friendly web applications.
 </p>
 
@@ -84,7 +84,7 @@ But choosing a color for a button? That takes forever. 😄
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishnaVaishnav98&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVaishnav98&layout=compact&theme=tokyonight" height="160"/>
